@@ -14,5 +14,5 @@ Students can browse coffees, select sizes, and order conveniently.
 ## ✨ Features  
 - Dark-themed modern UI  
 - Browse coffee & bean categories  
-- Select cup sizes with prices (₹ INR)  
+- Select cup sizes with prices 
 - Smooth navigation and detail screens  
